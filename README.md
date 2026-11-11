@@ -6,6 +6,7 @@ Breve descrição de uma ou duas linhas sobre o que o sistema resolve.
 * **Product Owner (PO):** Nome do Aluno (@usuario-github)
 * **Scrum Master (SM):** Nome do Aluno (@usuario-github)
 * **Developers:** Nome do Aluno (@usuario-github), Nome do Aluno (@usuario-github)
+* **Colaborador:** Noestorva
 
 ## 🛠️ Tecnologias Utilizadas
 * Linguagem / Framework: (ex: Python, JavaScript, React)
